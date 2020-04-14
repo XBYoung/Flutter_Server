@@ -1,0 +1,5 @@
+name:   website_server
+description: A new Flutter project.
+
+dependencies:
+  http_server: ^0.9.8
